@@ -1,2 +1,0 @@
-# regexPathname
-Created with CodeSandbox
